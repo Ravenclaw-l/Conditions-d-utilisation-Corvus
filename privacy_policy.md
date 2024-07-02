@@ -5,7 +5,7 @@
 Corvus collecte et utilise les informations personnelles de ses utilisateurs aux fins suivantes :
 
 1. **Identification** :
-   - Nous collectons votre identifiant Discord.
+   - Nous pouvons collecter votre identifiant Discord, ainsi que les emssgaes envoyés utilisant les commandes du bot.
 
 2. **Cookies** :
    - Corvus n'utilise pas de cookies pour suivre les utilisateurs.
