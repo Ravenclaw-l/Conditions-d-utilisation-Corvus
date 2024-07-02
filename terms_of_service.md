@@ -10,7 +10,7 @@ En utilisant Corvus, vous acceptez les conditions suivantes :
    Vous devez respecter toutes les règles et politiques de Discord lors de l'utilisation de Corvus.
 
 2. **Utilisation des Données** :
-   Nous collectons des informations telles que votre identifiant Discord pour stocker et gérer vos rappels. Ces données ne seront pas partagées avec des tiers.
+   Nous collectons des informations telles que votre identifiant Discord et les messages utilisant le bot. Ces données ne seront pas partagées avec des tiers.
 
 3. **Responsabilité** :
    Nous ne sommes pas responsables des dommages ou pertes résultant de l'utilisation de Corvus. Utilisez le bot à vos propres risques.
